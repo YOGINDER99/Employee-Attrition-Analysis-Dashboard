@@ -1,5 +1,4 @@
 # Employee-Attrition-Analysis-Dashboard
-# Employee Attrition Analysis Dashboard
 
 ## Overview
 This project involves the creation of an interactive dashboard for analyzing employee attrition within the company using Power BI. The dashboard features various visualizations to identify factors contributing to employee turnover by finding relationships in the data, with initial analyses conducted using Excel.
